@@ -1,0 +1,22 @@
+{
+  "name": "DSY Token",
+  "symbol": "DSY",
+  "decimals": 18,
+  "description": "DSY (Digital Syrian Crypto) is a digital currency designed to empower and strengthen the Syrian digital economy.",
+  "website": "https://dsy.sham.com.tr",
+  "explorer": "https://bscscan.com/token/0x2d8336471fbae50405ee5888ae927ffc036df84d",
+  "type": "coin",
+  "status": "active",
+  "id": "0x2d8336471fbae50405ee5888ae927ffc036df84d",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DSY_Crypto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DSY_Crypto"
+    }
+  ],
+  "tags": ["defi", "currency", "syrian"]
+}
