@@ -1,6 +1,6 @@
 # DSY Token
 
-**DSY (Digital Syrian Crypto)** is a digital currency designed to empower and strengthen the Syrian digital economy.
+**DSY (Decentralized System Yield)** is a decentralized digital asset built on BNB Smart Chain (BEP-20).
 
 ## 🏛 Project Details
 
