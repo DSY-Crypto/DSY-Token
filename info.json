@@ -2,7 +2,7 @@
   "name": "DSY Token",
   "symbol": "DSY",
   "decimals": 18,
-  "description": "DSY (Digital Syrian Crypto) is a digital currency designed to empower and strengthen the Syrian digital economy.",
+  "description": "DSY (Decentralized System Yield) is a decentralized digital asset built on BNB Smart Chain (BEP-20).",
   "website": "https://dsycoin.com",
   "explorer": "https://bscscan.com/token/0x2d8336471fbae50405ee5888ae927ffc036df84d",
   "type": "coin",
