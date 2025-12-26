@@ -20,9 +20,9 @@
 
 ## 📄 Description
 
-DSY (Decentralized System Yield) is a decentralized digital asset built on BNB Smart Chain (BEP-20).
+DSY (Decentralized System Yield) is a decentralized digital asset built on BNB Smart Chain (BEP-20), designed to support transparent and efficient blockchain-based utilities.
+The project focuses on secure value transfer and Web3 ecosystem integrations, with an emphasis on decentralization, low transaction costs, and long-term sustainability through open and verifiable development.
 
-The project focuses on providing transparent, secure, and efficient blockchain-based utilities, supporting value transfer and Web3 ecosystem integrations. DSY is designed with an emphasis on decentralization, low transaction costs, and long-term sustainability.
 
 ## 🛠️ Technical
 
