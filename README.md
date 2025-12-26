@@ -26,7 +26,7 @@ The project focuses on secure value transfer and Web3 ecosystem integrations, wi
 
 ## 🛠️ Technical
 
-- **Blockchain:** Binance Smart Chain (BSC)  
+- **Blockchain:** BNB Smart Chain (BSC)  
 - **Type:** BEP-20 Token  
 - **Status:** Active
 
