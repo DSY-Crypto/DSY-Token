@@ -5,7 +5,7 @@
   "description": "DSY (Decentralized System Yield) is a decentralized digital asset built on BNB Smart Chain (BEP-20).",
   "website": "https://dsycoin.com",
   "explorer": "https://bscscan.com/token/0x2d8336471fbae50405ee5888ae927ffc036df84d",
-  "type": "coin",
+  "type": "token",
   "status": "active",
   "id": "0x2d8336471fbae50405ee5888ae927ffc036df84d",
   "links": [
@@ -30,5 +30,5 @@
       "url": "https://github.com/DSY-Crypto/DSY-Token"
     }
   ],
-  "tags": ["defi", "currency", "syrian"]
+  "tags": ["defi", "bep20", "web3"]
 }
